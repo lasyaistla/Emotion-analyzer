@@ -1,3 +1,7 @@
+
+Model: OpenAI's Whisper (Base)
+Model: Hugging Face’s DistilRoBERTa (j-hartmann/emotion-english-distilroberta-base)
+
 How to Use
 1. Upload Your Video
 Upload your video file. Supported formats include .mp4, .mov, .avi, etc.
